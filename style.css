@@ -1,8 +1,12 @@
-h1{
+div{
 text-align: center;
 font-style: Bold;
 border-style: Solid;
 border-color: blue;
-margin:300px;
+margin:50px;
 padding:5px;
+}
+table{
+  background-color:blue;
+  font-color:white;
 }
