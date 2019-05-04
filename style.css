@@ -6,6 +6,16 @@ border-color: blue;
 margin:50px;
 padding:5px;
 }
+p{
+  line-height: .5
+}
+image{
+  image-align:right;
+  border-style:solid;
+  border-color:blue;
+  padding:0px;
+}
+ 
 table{
   background-color:blue;
   color:white;
