@@ -7,15 +7,8 @@ margin:50px;
 padding:5px;
 }
 p{
-  line-height: 1
+  line-height:1.5;
 }
-img{
-  image-align:right;
-  border-style:solid;
-  border-color:blue;
-  padding:0px;
-}
- 
 table{
   background-color:blue;
   color:white;
