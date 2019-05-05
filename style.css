@@ -6,6 +6,9 @@ border-color: blue;
 margin:50px;
 padding:5px;
 }
+img{
+  float:right;
+}
 p{
   line-height:1.5;
 }
