@@ -23,7 +23,7 @@ img{
 text-align: center;
 font-style: Bold;
 background-color: rgb(131, 125, 140);
-margin:15px;
+margin:50px;
 padding:5px;
 clear: left;	
 }
@@ -37,31 +37,37 @@ h2{
 .cac{
 	background-color:rgb(197, 228, 237);
 	margin:15px;
+	padding:10px;
 	width:830px;
 }
 .tjx{
 	background-color:rgb(197, 228, 237);
 	margin:15px;
+	padding:10px;
 	width:830px;
 }
 .puma{
 	background-color:rgb(197, 228, 237);
 	margin:15px;
+	padding:10px;
 	width:830px;
 }
 .directex{
 	background-color:rgb(197, 228, 237);
 	margin:15px;
+	padding:10px;
 	width:830px;
 }
 .stout{
 	background-color:rgb(197, 228, 237);
 	margin:15px;
+	padding:10px;
 	width:830px;
 }
 .ffm{
 	background-color:rgb(197, 228, 237);
 	margin:15px;
+	padding:10px;
 	width:830px;
 }
 li{
@@ -77,11 +83,13 @@ justify-content: flex-start;
 .skill1{
 	background-color:rgb(197, 228, 237);
 	margin:15px;
+	padding:10px;
 	width:400px;
 }
 .skill2{
 	background-color:rgb(197, 228, 237);
 	margin:15px;
+	padding:10px;
 	width:400px;
 }
 .interests{
@@ -93,10 +101,12 @@ justify-content: flex-start;
 .int1{
 	background-color:rgb(197, 228, 237);
 	margin:15px;
+	padding:10px;
 	width:400px;
 }
 .int2{
 	background-color:rgb(197, 228, 237);
 	margin:15px;
+	padding:10px;
 	width:400px;
 }
