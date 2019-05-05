@@ -1,21 +1,102 @@
-div{
-text-align: center;
-font-style: Bold;
-border-style: Solid;
-border-color: blue;
-margin:50px;
-padding:5px;
-}
+
 img{
   float:right;
+  margin:60px;
+  
 }
-.clearfix {
-  overflow: auto;
+body {
+ background-image: url("http://www.myfreetextures.com/wp-content/uploads/2011/08/2011-06-11-09621.jpg");
+ background-repeat: no-repeat;
+ background-size: auto;
 }
+
 p{
   line-height:1.5;
 }
-table{
-  background-color:blue;
-  color:white;
+img{
+	border-style:solid;
+	border-color:rgb(131, 125, 140);
+	border-width:5px;
+}
+
+.name {
+text-align: center;
+font-style: Bold;
+background-color: rgb(131, 125, 140);
+margin:50px;
+padding:5px;
+clear: left;	
+}
+h2{
+	background-color: rgb(131, 125, 140);
+	margin:15px;
+	width:830px;
+	text-align:center;
+}
+
+.cac{
+	background-color:rgb(197, 228, 237);
+	margin:15px;
+	width:830px;
+}
+.tjx{
+	background-color:rgb(197, 228, 237);
+	margin:15px;
+	width:830px;
+}
+.puma{
+	background-color:rgb(197, 228, 237);
+	margin:15px;
+	width:830px;
+}
+.directex{
+	background-color:rgb(197, 228, 237);
+	margin:15px;
+	width:830px;
+}
+.stout{
+	background-color:rgb(197, 228, 237);
+	margin:15px;
+	width:830px;
+}
+.ffm{
+	background-color:rgb(197, 228, 237);
+	margin:15px;
+	width:830px;
+}
+li{
+	font-size:12pt;
+	
+}
+.addskills{
+display:flex;	
+flex-direction:row;
+justify-content: flex-start;
+}
+
+.skill1{
+	background-color:rgb(197, 228, 237);
+	margin:15px;
+	width:400px;
+}
+.skill2{
+	background-color:rgb(197, 228, 237);
+	margin:15px;
+	width:400px;
+}
+.interests{
+	display:flex;
+	flex-direction:row;
+	justify-content:flex-start;
+	
+}
+.int1{
+	background-color:rgb(197, 228, 237);
+	margin:15px;
+	width:400px;
+}
+.int2{
+	background-color:rgb(197, 228, 237);
+	margin:15px;
+	width:400px;
 }
